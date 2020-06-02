@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2579fe86-5d75-4d51-9a7a-58efd2754447" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zsdw6gkvg0F5HYYnmvkGKkdoVk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\katep\PycharmProjects\Sample" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="buttonpython" type="Python.DjangoServer" factoryName="Django server">
+      <module name="buttonpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manage" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2579fe86-5d75-4d51-9a7a-58efd2754447" name="Default Changelist" comment="" />
+      <created>1585631970291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585631970291</updated>
+      <workItem from="1585631984558" duration="764000" />
+      <workItem from="1586023706939" duration="908000" />
+      <workItem from="1586025114617" duration="325000" />
+      <workItem from="1586025603822" duration="180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586033979997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="194" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586033979997" />
+    <state x="518" y="176" key="FileChooserDialogImpl" timestamp="1586033030492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="176" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586033030492" />
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1586033997732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586033997732" />
+    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1586033997731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586033997731" />
+    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1586033997731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586033997731" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1586033997731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586033997731" />
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom" timestamp="1586033933732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586033933732" />
+    <state width="1364" height="242" key="GridCell.Tab.1.center" timestamp="1586033933732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586033933732" />
+    <state width="1364" height="242" key="GridCell.Tab.1.left" timestamp="1586033933732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586033933732" />
+    <state width="1364" height="242" key="GridCell.Tab.1.right" timestamp="1586033933732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586033933732" />
+    <state x="555" y="65" key="SettingsEditor" timestamp="1586035120979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="65" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586035120979" />
+    <state x="435" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1586025116019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586025116019" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1586023721615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586023721615" />
+  </component>
+</project>

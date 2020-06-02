@@ -1,0 +1,171 @@
+1_1 Garfield opens a bottle of champagne by pulling out cork cap.
+1_1 Garfield tries to open the cork of champagne bottle.
+1_1 Garfield pulls the Cork cap of a champagne bottle hardly.
+1_2 Garfiled starts drinking the opened bottle champagne.
+1_2 Garfield sits on ground and starts drinking champagne bottle.
+1_2 Garfield with closed eyes started  the champagne drink.
+1_3 Garfield shocks after realizing the taste of champagne.
+1_3 Garfield doesn't like the champagne drink.
+1_3 Garfield after tasting the champagne feels wasted.
+11_3 Garfield and Oddie looks at each others winter sweater.
+11_3 garfield looks at Oddie's sweater and feels happy
+11_3 garfield feels happy after looking at oddie's sweater
+13_1 Garfield feels sad after oddie removed its sweater
+13_1 oddie removes its sweater where as garfield still has to wear its sweater.
+13_1 Garfield after seeing oddie without sweater feels miserable.
+13_2 Oddie laughs at garfield that its still wearing the sweater.
+13_2 Oddie makes fun of Garfield in sweater which he had removed.
+13_2 Oddie after watching garfield still in its winter sweater laughs at it.
+13_3 Oddie has Garfield sweater in its mouth.
+13_3 Oddie removes Garfield sweater with its mouth and holds it.
+13_3 oddie with its mouth pulls out sweater of garfield and holds it.
+15_1 Garfield chases after a mailman with a bag of mails.
+15_1 A mailman is being chased by Garfield with all mails falling out of bag.
+15_1 Garfield Runs after a mailman who comes to deliver the mails in his bag.
+17_1 Jon sits on a chair with table in front and garfield approaches him.
+17_1 Garfield walks towards Jon sitting on chair and watching.
+17_1 Garfield slowly comes towards jon who is sitting on chair with  table in front.
+17_2 garfield stands beside table and looks at Jon .
+17_2 Garfield Stares at jon standing beside the table.
+17_2 Garfield looks towards Jon who is sitting on chair.
+18_2 Garfield cries and Jumps onto Jon.
+18_2 Jon stands in front of Garfield which is jumping in air.
+18_2 Garfield tries to jump onto jon who is standing in front of it.
+18_3 Garfield sits on Head of jon after getting scared.
+18_3 Jon has a scared Garfield  sitting on Head of him.
+18_3 Garfield after getting scared climbed onto jon's head.
+20_1 Oddie barks at sleeping garfield beside jon.
+20_1 Jon sitting on chair watches oddie barking at sleeping garfield.
+20_1 Garfield sleeping on floor is waked up by oddie's barking.
+20_2 Garfield and Oddie starts fighting with each other.
+20_2 Garfield who is angry at oddie starts fight with him in fornt of jon.
+20_3 Jon sitting on chair watches Oddie and garfield fighting each other.
+25_1 Garfield and Jon watches television together.
+25_1 Jon sitting on floor and garfield behind him on chair watches television.
+25_1 Jon sits in front of garfield and watches television.
+25_2 Garfield smacks jon on his head.
+25_2 Garfield in anger smacks Jon on his head who is sitting in front of him.
+25_2 Jon has been beaten by garfield on head .
+35_2 Garfield jumps onto food in plate.
+35_2 food in the plate is being broken and spoiled by garfield.
+35_2 garfield spoils the food in plate by jumping on it with its paws.
+40_2 Jon is reading a book seriously.
+40_2 jon sits on a chair with a reading book in his hand.
+40_2 jon sitting in a chair reads a book in his hand seriously.
+43_1 jon and mike watches at garfield walking towrds them.
+43_1 A shivering garfield walks towards jon and mike.
+43_1 Jon and mike standing beside each other stares at shivering garfield.
+43_2 jon and mike watches at garfield walking away from them.
+43_2 A shivering garfield passes away from jon and mike.
+43_2 Jon and mike standing beside each other looks at shivering garfield.
+44_2 Garfield Jumps onto jon in blue shirt.
+44_2 Jon with blue shirt and hands stretched stares at garfield jumping onto him.
+44_2 Garfield jumps onto jon standing in front of him.
+48_1 A sleeping jon with is waked up by some noise.
+48_1 Jon who is sleeping on bed has been awaken by some noise.
+48_1 Jon wakes up from sleep after listening to some noise.
+49_1 garfield starts jumping on a piano.
+49_1 Garfield plays piano with its paws by jumping on it.
+49_1 Garfield starts jumping on piano and music starts.
+50_2 Garfield tries to snatch chicken from Jon food plate.
+50_2 Jon with plate of food beside him watches garfield grabbing chicken food from plate.
+50_2 Garfield slowly picks chicken from jon's food plate.
+54_1 Garfield holding spooky bear in its hand smacks Jon.
+54_1 garfield beats jon who tries to catch a doll spooky in ts hand.
+54_1 Jon is smacked by garfield which is holding spooky in its hand.
+55_2 garfield puts spooky teddy doll in front of him.
+55_2 garfield sitting on floor looks at spooky teddy doll which is in front of him.
+55_2 Garfield puts spooky in fron of him and sits on floor.
+56_1 Garfield holds hands of spooky and starts turning rounds.
+56_1 Garfield gets hold of spooky and dances.
+56_1 Garfield dances by holding spooky with its hands.
+56_2 Garfield holds hands of spooky and Continues Dancing with it.
+56_2 Garfield Continues Dancing with spooky and .
+56_2 Garfield dances by holding spooky in its arms.
+58_2 Garfield looks upwards pointing its finger at spooky.
+58_2 Garfield points towards spooky and looks at jon standing in front of it.
+58_2 Garfield with wide opened eyes stares upwards poiniting finger at spooky.
+60_2 Garfield gets into fight with mailman
+60_2 Garfield and mailman fights each other.
+60_2 Mailman intimidates garfield and garfield starts attacking him.
+61_1 Jon sits on chair with garfield in his hands
+61_1 Garfield is annoyed with Jon holding him in his hand.
+61_1 Jon holds garfield in his hand cuddling it while sitting on a chair.
+61_2 garfield jumps from hands of jon
+61_2 Jon seems to be shocked after garfield jumps from his hands.
+61_2 Garfield shocks jon by jumping out of his hands.
+66_1 Garfield jumps onto a plate of chicken.
+66_1 A plate oof food chicken is being grabbed by garfield.
+66_1 Garfield jumps to eat chicken food placed in a plate.
+67_2 Garfield pushes away some object from table.
+67_2 Garfield throws down clock from table and it's broken.
+67_2 garfield breaks clock by pushing it from table
+69_2 Garfield throws down food from its plate.
+69_2 Garfield throws food from plate.
+69_2 An angry garfield throws food by holding plate upside.
+70_1 Jon wakes up yawning from bed with garfield slept on his head.
+70_1 A sleepy Jon wakes yawing with garfield on top of jon head.
+70_1 Jon gets up from bed with still sleeping garfield on his head.
+70_2 Garfield is still sleeping on top of Jon while Jon walks sleepy.
+70_2 Jon still sleepy walks with still sleeping garfield on him.
+70_2 Garfield still sleeps on top of Jon who is walking with half sleep.
+80_2 garfield with a cape comes out of the door and gets scared after looking at dog.
+80_2 Garfield encounters a big dog ands gets scared 
+80_2 Garfield with a cape gets scared after he looks at big dog.
+81_2 Garfield removes its outfit lokking at jon angrily.
+81_2 Jon is in front of garfield where he removes its outfit.
+81_2 garfield remove its outfit.
+86_2 Jons looks at garfield who sits in chair and stares at jon.
+86_2 Garfield who sat in chair looks at Jon asking him for something.
+86_2 Garfield stares at jon who is standing beside the chair.
+86_3 Garfield sitting in chair and jon resting on chair watches telvision together.
+86_3 Garield and Jon watches television together .
+86_3 Jon leans on chair whereas garfield sits on chair and watches television.
+87_2 garfield standing on table punches Jon on eyes.
+87_2 Jon is poked by garfield in his eyes
+87_2 Garfield pokes jon in his eyes who is standing in front of him.
+93_2 Garfield standing on table in front of jon grabs and eats cabbagefrom his hand.
+93_2 Jon looks shocked after garfield grabs cabbage fast from his hand and eats.
+93_2 Garfield eats cabbage grabbed from jon's hand very fast.
+94_1 Oddie turns rounds in front of garfield .
+94_1 Garfield sits and stares at oddie who is dancing.
+94_1 Oddie starts dancing in front of garfield who is sitting and staring in front of him.
+94_2 Garfield looks angrily at oddie in front of him.
+94_2 oddie standing in front of garfield.
+94_2 Oddie who is dancing in front of garfield is stared by garfield seriously.
+97_2 Garfield does workout with a red dumbell in his hand.
+97_2 Garfield starts exercise with a red dumbell in his right hand.
+97_2 Garfield has dumbell in his right hand.
+97_3 Garfield stares at a dumbell in his right hand scared.
+97_3 Garfield looks scared after doing with exercise with a dumbell in right hand.
+97_3 Garfield standing and stares at dumbell in his right hand feeling tired and scared. 
+98_1 Garfield catches a hoop in hand at edge of table and looks scared at oddie.
+98_1 Oddie rushes to jump from hoop in garfield hand looking scared.
+98_1 Garfield is scared by anxiety of oddie rushing towards hoop in his hand.
+98_2 Garfield looks happy after oddie passed and fell down from hoop.
+98_2 Oddie after passing from hoop crashes down and garfield looks happy.
+98_2 Garfield laughs after oddie crashed after jumping from hoop.
+99_2 Garfield is crushed between door and wall after oddie slams out door.
+99_2 Oddie rushes out slaming the door by which garfield is slammed to wall.
+99_2 Garfield is slammed by door towards wall while oddie was rushing out.
+100_2 Garfield blows a white whistle.
+100_2 Garfield catches a white whistle in his hand and blows it.
+100_2 Garfield is seen blowing a white whistle in his hand.
+102_1 garfield and jon waits for toasted bread by looking at toaster.
+102_1 Hungry Garfield and jon looks at bread toaster in front of them.
+102_1 Jon standing on floor and garfield on table looks at bread toaster.
+102_2 As soon as bread pops out from toaster garfield grabs it and jon shocks.
+102_2 Jon looks shocked after garfield tries to jump towards popping out bread.
+102_2 Garfield tries to grab the popping out toasted bread and jon is shocked.
+108_1 A whole hot chicken is on table and garfield who is on floor looks at it.
+108_1 Garfield stares at hot chicken placed  in plate on table.
+108_1 Garfield looks at chicken places on table anxiously.
+108_3 Jon looks annoyed by garfield who has chicken in his mouth.
+108_3 Garfield puts whole chicken in mouth and Jon looks angry at garfield.
+108_3 Jon is angered after watching with garfield mouth full of chicken.
+110_2 Garfield Cuts the bread into slices with its paws and jon is shocked.
+110_2 Garfield slices the bread with its paws and jon is in front of him.
+110_2 Jon watches garfield slicing the bread into pieces with its paws.
+111_3 Oddie stands with its tongue open and a flower pot bouncing behind it.
+111_3 Flower pot bounces in air behind oddie who is in opposite direction with its mouth open.
+111_3 Flower pot bounces bak without hitting oddie who is staring at other direction with open mouth.

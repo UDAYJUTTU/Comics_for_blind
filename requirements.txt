@@ -1,0 +1,17 @@
+mysql-connector-python
+Pillow
+SpeechRecognition
+gTTS
+google-cloud-vision
+Django
+Django_extensions
+Ipython
+pygame
+tensorflow==1.15.0
+opencv-python
+numpy
+matplotlib
+keras
+pydot
+graphviz
+selenium
