@@ -7,7 +7,7 @@ Django
 Django_extensions
 Ipython
 pygame
-tensorflow==1.15.0
+tensorflow==2.6.4
 opencv-python
 numpy
 matplotlib
